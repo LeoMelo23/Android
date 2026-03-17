@@ -7,7 +7,7 @@ O objetivo da criação desse site é colocar em prática o aprendizado as aulas
 
 O desafio de contruir um site contando a história de como surgiu o **Bugdroid** esta disponível no Módulo 2 do curso de HTML5 e CSS3
 
-<a href="leomelo23.github.io/Android/">Clique aqui para acessar o site
+<a href="https://leomelo23.github.io/Android/">Clique aqui para acessar o site
 
 
 ## Tecnologias
