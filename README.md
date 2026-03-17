@@ -1,6 +1,6 @@
 # Como surigu o mascote do Android
 
-Esse é um projeto de estudo de um desafio proposto pelo professor **Gustavo Guanabara**, através do seu canal no Youtube <a href="https://www.youtube.com/@cursoemvideo" target="_blank" >
+Esse é um projeto de estudo de um desafio proposto pelo professor **Gustavo Guanabara**, através do seu canal no Youtube <a href="https://www.youtube.com/@cursoemvideo" >
 Curso em Video.
 
 O objetivo da criação desse site é colocar em prática o aprendizado as aulas, dentre elas responsividade, divisão do HTML em header, section, footer, alguns comandos importantes de CSS como margin, padding. Foi um projeto muito legal de se construir.
