@@ -10,7 +10,7 @@ O desafio de contruir um site contando a história de como surgiu o **Bugdroid**
 <a href="https://leomelo23.github.io/Android/">Clique aqui para acessar o site
 
 
-## Tecnologias
+## 🚀Tecnologias
 
 HTML
 
